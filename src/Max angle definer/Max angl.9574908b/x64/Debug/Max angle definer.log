@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\pasha\Max-angle-definer\src\Max angle definer\main.cpp(34,12): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\pasha\Max-angle-definer\src\Max angle definer\main.cpp(144,30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+C:\Users\pasha\Max-angle-definer\src\Max angle definer\main.cpp(144,24): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  Max angle definer.vcxproj -> C:\Users\pasha\Max-angle-definer\src\Max angle definer\x64\Debug\Max angle definer.exe

@@ -1,0 +1,13 @@
+﻿  pch.cpp
+  Tests.cpp
+C:\Users\pasha\Max-angle-definer\src\Max angle definer\main.cpp(34,12): warning C4305: инициализация: усечение из "double" в "float"
+  (компиляция исходного файла "/Tests.cpp")
+  
+C:\Users\pasha\Max-angle-definer\src\Max angle definer\main.cpp(144,30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "/Tests.cpp")
+  
+C:\Users\pasha\Max-angle-definer\src\Max angle definer\main.cpp(144,24): warning C4244: инициализация: преобразование "double" в "const float", возможна потеря данных
+  (компиляция исходного файла "/Tests.cpp")
+  
+     Создается библиотека C:\Users\pasha\Max-angle-definer\src\Max angle definer\x64\Debug\Tests.lib и объект C:\Users\pasha\Max-angle-definer\src\Max angle definer\x64\Debug\Tests.exp
+  Tests.vcxproj -> C:\Users\pasha\Max-angle-definer\src\Max angle definer\x64\Debug\Tests.dll
